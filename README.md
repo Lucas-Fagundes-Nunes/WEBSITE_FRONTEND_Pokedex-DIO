@@ -1,6 +1,6 @@
 # Projeto Pokedex - DIO
 
-O projeto consiste em buscar os dados da API 
+O projeto consiste em buscar os dados da API pokeapi.
 
 <br>
 
@@ -14,4 +14,7 @@ O projeto consiste em buscar os dados da API
 [![AGPL License](https://img.shields.io/badge/HTML-red.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![AGPL License](https://img.shields.io/badge/CSS-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![AGPL License](https://img.shields.io/badge/JAVASCRIPT-yellow.svg)](http://www.gnu.org/licenses/agpl-3.0)
-<br>
+<br><br>
+
+
+!["./assets/exemplo.png"](./assets/exemplo.png)
